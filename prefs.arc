@@ -1,3 +1,0 @@
-@env
-testing
-  MOVIE_API_KEY f4aec5c92f4ad917709714353fc03662
